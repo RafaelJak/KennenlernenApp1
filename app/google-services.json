@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1071575366189",
+    "firebase_url": "https://kennenlernen-app.firebaseio.com",
+    "project_id": "kennenlernen-app",
+    "storage_bucket": "kennenlernen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071575366189:android:6577f5c0612503b47996a4",
+        "android_client_info": {
+          "package_name": "com.example.d24_sqlite.kennenlernenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071575366189-uaimcv9n0smnjkdgir1cda8f60oto4l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-rQ3lxewhMIejQm1Ov-zwh5ne4uE45w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071575366189-uaimcv9n0smnjkdgir1cda8f60oto4l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071575366189:android:6acc7164840072f17996a4",
+        "android_client_info": {
+          "package_name": "kennenlernen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071575366189-1oriq2o2c6g6pb5nevqtih4mbqlgkidm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kennenlernen.app",
+            "certificate_hash": "4e4e2e4effee198d38b0cc040466c163276687ed"
+          }
+        },
+        {
+          "client_id": "1071575366189-uaimcv9n0smnjkdgir1cda8f60oto4l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-rQ3lxewhMIejQm1Ov-zwh5ne4uE45w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071575366189-uaimcv9n0smnjkdgir1cda8f60oto4l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

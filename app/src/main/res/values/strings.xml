@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KennenlernenApp</string>
+    <string name="itemKontakte">Kontakte</string>
+    <string name="itemTabellen">Tabellen</string>
+    <string name="itemSession">Session</string>
+    <string name="buttonStartStop">Start</string>
+    <string name="buttonSpeichern">Speichern</string>
+    <string name="buttonPlusEdit">+</string>
+    <string name="buttonMinusEdit">-</string>
+    <string name="buttonPlusNeu">+</string>
+    <string name="buttonMinusNeu">-</string>
+    <string name="buttonNeu">Neues Feld erzeugen</string>
+    <string name="buttonFragementNewContact">Neuer Kontakt</string>
+    <string name="buttonFragementContacts">Kontakte</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
